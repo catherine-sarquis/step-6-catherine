@@ -1,2 +1,2 @@
-# step-6-catherine
-Step 6
+# Step 6
+## Matcha, not coffee
